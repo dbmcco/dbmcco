@@ -1,53 +1,46 @@
-# Hey there 👋
+# I'm Braydon  👋
+
+Entrepreneur, systems thinker, and working at the intersection of healthcare technology, AI, and business transformation. PhD in music theory and composition; I run marathons, half and triathlons, which still surprises me since I used to think "only run when chased".
+
+## Some Work
+
+**Healthcare Data Intelligence at LDA**: Lead LongView platform strategy, implementation and go to market, transforming archived medical data from "the toxic waste dump of healthcare data" into clinical intelligence. I'm great at a party.
+
+**AI Development Systems**: Building multi-agent frameworks that write better code than I do (since I'm not a trained developer). It's both fascinating and occasionally terrifying how well this works. Using TDD/lint/hooks to force genai into a coding box. Emerging signs of autonomous intelligence are wild. 
+
+**Financial Modeling**: Developing Python frameworks for film and tv production company financial analysis with 88% test coverage . The entertainment industry runs on spreadsheets and handshakes.
+
+**Knowledge Management**: Refining Obsidian → Jekyll → GitHub Pages workflows for efficient publishing. There's something deeply satisfying about writing once and having your ideas flow seamlessly without fighting with formatting.
+
+## Some tools
+
+**Languages & Tools**: Python, JavaScript/TypeScript, SQL, React, Node.js, Docker (and occasionally English)  
+**Architecture**: Modular design, API-first development, test-driven development (if it's not tested, it's broken)  
+**AI/ML**: RAG implementations, multi-agent systems, clinical ML models  
+**Data**: Healthcare data integration, ETL pipelines, data mesh architectures  
+
+## Business & Innovation Background
+
+**Patent Holder**: Co-inventor of US Patent 11,975,221 for antimicrobial technology. Turns out you can fight viruses with more than just chicken soup and wishful thinking.
+
+**Digital Transformation**: Led Intempio as co-founder/CEO, delivering transformation strategies for pharmaceutical companies. Discovered that "digital transformation" means different things to different people, but always involves at least three cloud diagrams.
+
+**Strategic Consulting**: Experience with commercialization pathways, business process integration, product development, FDA approvals, global micro-manufacturing, University tech transfer.
+
+## Systems Thinking Approach
+
+I didn't expect this, but music theory provides a framework for understanding complex systems - whether in software architecture, business processes, or product development. The mathematical patterns in Bach have surprising parallels to well-designed software architecture  - super [fascinating study](https://dash.harvard.edu/server/api/core/bitstreams/4d1e447f-781e-400c-a7f3-bd3b09eb7d88/content) of chromaticism lead me to developing novel computational analysis approach to patient phenotyping.
+
+## Beyond Technology
+
+**Marathon Runner**: Finding clarity and problem-solving through distance running. Nothing good happens before 5 miles, and nothing good happens after 18.
+
+**Continuous Learner**: Currently reading books on systems thinking, intellectual frameworks. And weird fiction.
+
+## Connect
+
+- **Email**: [b@mcco.us](mailto:b@mcco.us)
+- **LinkedIn**: [linkedin.com/in/dbmcco](https://www.linkedin.com/in/dbmcco/)
+- **Blog**: [dbmcco.github.io](https://dbmcco.github.io)
 
 
-I'm Braydon - a developer and innovator who bridges healthcare technology, AI automation, and financial modeling. Currently transforming how we think about medical data intelligence while building the next generation of AI-driven development workflows.
-
-## What I'm working on now
-
-**🏥 Healthcare Innovation at LDA**: Leading the transformation of clinical decision support with our LongView platform - turning archived medical data from a compliance burden into clinical intelligence. We're pushing the boundaries of what's possible when you combine 20+ years of healthcare data with modern AI capabilities.
-
-**🤖 AI Development Automation**: Deep in the trenches building multi-agent development systems that can take a product requirements document and generate complete applications with tests, documentation, and deployment configs. Think AutoGen meets real-world software delivery - it's both fascinating and occasionally terrifying how well this works.
-
-**💰 Financial Modeling for Film/TV**: Currently 75% through building a Python framework for production company financial analysis. The entertainment industry runs on spreadsheets and handshake deals - we're bringing some mathematical rigor to the chaos with 88% test coverage (because money math better be right).
-
-**📝 Knowledge Management Systems**: Perfecting my Obsidian → Jekyll → GitHub Pages workflow for thought-to-publication automation. There's something deeply satisfying about writing once and having your ideas flow seamlessly to your blog without fighting with formatting.
-
-## How I think about technology
-
-I've been building things since the late 90s when I was an Internet Engineer at Fidelity (HTML 1.1 was cutting edge!). Twenty years later, I believe the best technology disappears into the background and just works. Whether it's clinical decision support saving lives or AI agents writing better code than humans, the magic happens when complexity becomes simple.
-
-My approach: Test-driven development, modular architecture, and quality gates everywhere. If it's not tested, it's broken. If it's not modular, it's unmaintainable. And if the AI can't understand it, neither can the next developer.
-
-## Beyond the code
-
-When I'm not deep in healthcare data lakes or debugging multi-agent conversations, I'm usually thinking about how technology can solve real problems for real people. I have a PhD in music theory (seriously), which turns out to be surprisingly useful for understanding complex systems and patterns.
-
-## Tech I'm passionate about
-
-**Languages**: Python, JavaScript/TypeScript, SQL  
-**AI/ML**: Multi-agent systems, RAG implementations, Clinical ML models  
-**Backend**: Node.js, PostgreSQL, Healthcare data integration  
-**Frontend**: Next.js, React, Clinical dashboards  
-**Philosophy**: TDD, LLM-driven development, Quality gates, Modular architecture  
-
-## Recent projects worth mentioning
-
-🏥 **LongView Clinical Platform** - AI-powered clinical decision support transforming archived medical data  
-🤖 **Agent Development Pipeline** - Multi-agent system for automated software development  
-💰 **Financial Modeling Framework** - TDD-based production company analytics  
-📊 **LDA Data Intelligence** - Healthcare data lakehouse with ML/AI capabilities  
-🎯 **NextUp Professional Tool** - Anti-fabrication networking automation system  
-
-## Let's connect
-
-- 📧 **Email**: [b@mcco.us](mailto:b@mcco.us)
-- 💼 **LinkedIn**: [linkedin.com/in/dbmcco](https://www.linkedin.com/in/dbmcco/)
-- 📝 **Blog**: [dbmcco.github.io](https://dbmcco.github.io)
-- 🏢 **Company**: Legacy Data Access (LDA)
-
-Always interested in conversations about healthcare AI, development automation, or the intersection of technology and human systems. If you're working on something that could benefit from 20+ years of turning complex problems into elegant solutions, let's talk.
-
----
-
-*Currently based in Shoreline, CT • Head of Innovation & Strategy at LDA • Serial entrepreneur with 20+ years transforming how we build and deploy technology*

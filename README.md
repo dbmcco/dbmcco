@@ -1,8 +1,7 @@
 # Hey there 👋
 
-![Profile Photo](DBM.jpg)
 
-I'm Bray.Doc McCormick - a developer and innovator who bridges healthcare technology, AI automation, and financial modeling. Currently transforming how we think about medical data intelligence while building the next generation of AI-driven development workflows.
+I'm Braydon - a developer and innovator who bridges healthcare technology, AI automation, and financial modeling. Currently transforming how we think about medical data intelligence while building the next generation of AI-driven development workflows.
 
 ## What I'm working on now
 

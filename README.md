@@ -2,9 +2,9 @@
 
 Entrepreneur, systems thinker, and working at the intersection of healthcare technology, AI, and business transformation. PhD in music theory and composition; I run marathons, half and triathlons, which still surprises me since I used to think "only run when chased".
 
-## Some Work
+## Recent Work
 
-**Healthcare Data Intelligence at LDA**: Lead LongView platform strategy, implementation and go to market, transforming archived medical data from "the toxic waste dump of healthcare data" into clinical intelligence. I'm great at a party.
+**Healthcare Data Intelligence**: LongView (EHR integrated dataa presentation) platform strategy, implementation and go to market, transforming archived medical data from "the toxic waste dump of healthcare data" into clinical intelligence. I'm great at a party.
 
 **AI Development Systems**: Building multi-agent frameworks that write better code than I do (since I'm not a trained developer). It's both fascinating and occasionally terrifying how well this works. Using TDD/lint/hooks to force genai into a coding box. Emerging signs of autonomous intelligence are wild. 
 
@@ -19,13 +19,6 @@ Entrepreneur, systems thinker, and working at the intersection of healthcare tec
 **AI/ML**: RAG implementations, multi-agent systems, clinical ML models  
 **Data**: Healthcare data integration, ETL pipelines, data mesh architectures  
 
-## Business & Innovation Background
-
-**Patent Holder**: Co-inventor of US Patent 11,975,221 for antimicrobial technology. Turns out you can fight viruses with more than just chicken soup and wishful thinking.
-
-**Digital Transformation**: Led Intempio as co-founder/CEO, delivering transformation strategies for pharmaceutical companies. Discovered that "digital transformation" means different things to different people, but always involves at least three cloud diagrams.
-
-**Strategic Consulting**: Experience with commercialization pathways, business process integration, product development, FDA approvals, global micro-manufacturing, University tech transfer.
 
 ## Systems Thinking Approach
 

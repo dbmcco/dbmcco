@@ -12,6 +12,8 @@ Entrepreneur, systems thinker, and working at the intersection of healthcare tec
 
 **Knowledge Management**: Refining Obsidian → Jekyll → GitHub Pages workflows for efficient publishing. There's something deeply satisfying about writing once and having your ideas flow seamlessly without fighting with formatting.
 
+**Anti-viral filtration**: Co-inventor of US Patent 11,975,221 for antimicrobial technology. Force/Electro-spun filter inbued with Photosentitizing dye kills 99.9 of Sars-COV2 virus in minutes.
+
 ## Some tools
 
 **Languages & Tools**: Python, JavaScript/TypeScript, SQL, React, Node.js, Docker (and occasionally English)  

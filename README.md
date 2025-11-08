@@ -1,13 +1,12 @@
 # I'm Braydon 👋
 
-I just stood up Light Forge Works—my micro-application studio for regulated back offices—and I head Business Operations at [Synthyra](https://synthyra.com), where we turn proteome-scale discovery into something operators can ship. Music theory PhD turned founder, I build loops where healthcare platforms, finance ops, and creative briefs move faster because humans and models share the same room.
+I build small, high-trust systems where regulated work can move faster. Right now that means running Light Forge Works, leading business operations at [Synthyra](https://synthyra.com), and mentoring founders who are trying to wire AI into their companies without melting down their teams.
 
-## What I'm focused on now
+## What I'm focused on
 
-- **Light Forge Works** – $2.5K/month single-purpose apps that tame messy workflows: SalesForge→RankForge→DraftForge pipelines, multi-SaaS integrations (Attio, Clay, SendGrid), and tmux/tailscale harnesses so Claude/Codex stay in lockstep with client data.  
-- **Healthcare intelligence (Synthyra + Aclara)** – At Synthyra I run business ops for a proteome-wide interaction engine (92% accuracy, 4,000× faster discovery, DSM annotation for thin plant genomes, cross-species tox for regulatory). At Aclara we co-invented antimicrobial PPE fabrics and took US 11,975,221 from idea → patent → manufacturing so clinicians actually got better gear.  
-- **Studio experiments** – Multi-agent workflows, shared scratchpads, and narrative systems where briefs, code, and treatments live in one pipeline. Everything is about shrinking a 10-hour build into a 45-minute pass.
-- **Founder mentoring** – Weekly working sessions with early-stage teams: pressure-test go-to-market, wire their AI loops, and install simple operating rhythms so they can ship without me in the room.
+- **Light Forge Works** – A micro-app studio for finance, healthcare, and compliance teams. Think SalesForge→DraftForge pipelines, multi-SaaS glue (Attio, Clay, SendGrid), and tmux/tailscale rigs so Claude/Codex stay close to live data.  
+- **Synthyra & Aclara** – At Synthyra I run ops for a proteome-scale discovery platform (92% accuracy, 4,000× faster screens, DSM annotation for thin genomes, cross-species tox for regulatory submissions). Earlier at Aclara we turned antimicrobial PPE fabrics into US 11,975,221 and scaled the supply chain so clinicians actually got better gear.  
+- **Mentoring loops** – Weekly working sessions with early-stage teams to pressure-test GTM, design AI workflows, and leave them with operating rhythms that work without me in the room.
 
 ## How I work
 

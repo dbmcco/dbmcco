@@ -6,9 +6,9 @@ The thread: models are components in governed systems, not magic. If you can't i
 
 ## What I'm working on
 
-**[Light Forge Works](https://lightforgeworks.com)** — micro-app studio for compliance-heavy teams. Single-purpose applications: one workflow, one wedge, measurable return on expense. Not platforms.
+**[Light Forge Works](https://lightforgeworks.com)** — integrated software development for middle-market businesses. We connect existing tools, automate workflows, and deliver working software in 30 days. Not platforms — software that actually attaches to how you work.
 
-**[Synthyra](https://synthyra.com)** — proteome-scale discovery platform. 92% accuracy, 4,000× faster screens, cross-species tox for regulatory submissions.
+**[Synthyra](https://synthyra.com)** — proteome-scale protein interaction platform. SYNTERACT-4 screens all 20,000+ human proteins at 375M interactions/second (AUROC 0.82). 1.4M+ model downloads, 80+ wet-lab validated predictions.
 
 **Speedrift / Driftdriver** — OSS tooling for AI-driven development. Drift checking, contract enforcement, workgraph task coordination. Started as internal tooling; open because it turned out to be useful.
 

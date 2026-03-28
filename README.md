@@ -1,14 +1,14 @@
 # Braydon McCormick
 
-I build AI systems for industries where failure has real consequences — healthcare, biotech, finance. Right now that means Managing Partner at Light Forge Works, CEO at Synthyra, and shipping OSS tooling for teams building with models.
+I build AI systems for industries where failure has real consequences — healthcare, biotech, finance. Right now that means Managing Partner at [Light Forge Works](https://lightforgeworks.com), CEO at [Synthyra](https://synthyra.com), and shipping OSS tooling for teams building with models.
 
 The thread: models are components in governed systems, not magic. If you can't instrument it, roll it back, and explain what it's doing, it's not ready.
 
 ## What I'm working on
 
-**Light Forge Works** — micro-app studio for compliance-heavy teams. Single-purpose applications: one workflow, one wedge, measurable return on expense. Not platforms.
+**[Light Forge Works](https://lightforgeworks.com)** — micro-app studio for compliance-heavy teams. Single-purpose applications: one workflow, one wedge, measurable return on expense. Not platforms.
 
-**Synthyra** — proteome-scale discovery platform. 92% accuracy, 4,000× faster screens, cross-species tox for regulatory submissions.
+**[Synthyra](https://synthyra.com)** — proteome-scale discovery platform. 92% accuracy, 4,000× faster screens, cross-species tox for regulatory submissions.
 
 **Speedrift / Driftdriver** — OSS tooling for AI-driven development. Drift checking, contract enforcement, workgraph task coordination. Started as internal tooling; open because it turned out to be useful.
 

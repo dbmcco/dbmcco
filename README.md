@@ -1,25 +1,22 @@
-# I'm Braydon 👋
+# Braydon McCormick
 
-I build small, high-trust systems where regulated work can move faster. Right now that means running Light Forge Works, leading business operations at [Synthyra](https://synthyra.com), and mentoring founders who are trying to wire AI into their companies without melting down their teams.
+I build AI systems for industries where failure has real consequences — healthcare, biotech, finance. Right now that means Managing Partner at Light Forge Works, CEO at Synthyra, and shipping OSS tooling for teams building with models.
 
-## What I'm focused on
+The thread: models are components in governed systems, not magic. If you can't instrument it, roll it back, and explain what it's doing, it's not ready.
 
-- **Light Forge Works** – A micro-app studio for finance, healthcare, and compliance teams. Think SalesForge→DraftForge pipelines, multi-SaaS glue (Attio, Clay, SendGrid), and tmux/tailscale rigs so Claude/Codex stay close to live data.  
-- **Synthyra & Aclara** – At Synthyra I run ops for a proteome-scale discovery platform (92% accuracy, 4,000× faster screens, DSM annotation for thin genomes, cross-species tox for regulatory submissions). Earlier at Aclara we turned antimicrobial PPE fabrics into US 11,975,221 and scaled the supply chain so clinicians actually got better gear.  
-- **Mentoring loops** – Weekly working sessions with early-stage teams to pressure-test GTM, design AI workflows, and leave them with operating rhythms that work without me in the room.
+## What I'm working on
 
-## How I work
+**Light Forge Works** — micro-app studio for compliance-heavy teams. Single-purpose applications: one workflow, one wedge, measurable return on expense. Not platforms.
 
-- **Environment-first**: I stage repos, briefs, and guardrails so models show up as senior collaborators instead of vending machines.  
-- **Visible loops**: I narrate every pass, invite counter-arguments, and keep token budgets working like real resources.  
-- **Information logistics**: The goal is leverage—shrinking friction, aligning with strategy, and freeing headspace for the next hard question.
+**Synthyra** — proteome-scale discovery platform. 92% accuracy, 4,000× faster screens, cross-species tox for regulatory submissions.
 
-## Things I've built
+**Speedrift / Driftdriver** — OSS tooling for AI-driven development. Drift checking, contract enforcement, workgraph task coordination. Started as internal tooling; open because it turned out to be useful.
+
+## Background
 
 RVIBE → Intempio → Aclara → LightForge → Resilience Creative. Different industries, same pattern: connect the weird mix of people, data, and creative constraints until the work ships.
 
-## Links
+PhD in music theory and composition. Turns out decomposing voice-leading problems and decomposing workflow failures use the same muscle.
 
-📧 [b@mcco.us](mailto:b@mcco.us)  
-💼 [linkedin.com/in/dbmcco](https://linkedin.com/in/dbmcco)  
-📝 [dbmcco.github.io](https://dbmcco.github.io)
+## Links
+📧 [b@mcco.us](mailto:b@mcco.us)  💼 [linkedin.com/in/dbmcco](https://linkedin.com/in/dbmcco)  📝 [dbmcco.github.io](https://dbmcco.github.io)
